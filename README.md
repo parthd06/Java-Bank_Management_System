@@ -56,8 +56,6 @@ details is stored in the database, It will be reflected on this page.
 
 ![Withdraw Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss5.png)
 
-![Deposit Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss6.png)
-
 **Transfer Page:**
 On this page, the user can transfer money from one account to another account.
 On loading, the user has to enter the account no’s from which he wishes to transfer money.
