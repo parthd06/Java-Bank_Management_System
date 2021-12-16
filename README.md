@@ -35,54 +35,48 @@ Administrator(user) have to insert his credentials to access the system. All the
 data of the administrator is already stored in the database. If the credentials does not match, the
 user does not have access to the system. 
 
-![Login Page]()
+![Login Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss1.png)
 
 **Main Menu:** 
 Through this page the user can add a customer, create account, deposit,
 withdraw, transfer, report, balance check and can add new admin.
 
-![Main Page]()
+![Main Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss2.png)
 
 - Addition of new customer and then creating account for the customer.
 
-  ![Add Customer]()
+  ![Add Customer](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss3.png)
 
-  ![Add Account]()
+  ![Add Account](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss4.png)
 
 **Transaction:** 
 The user can perform two actions i.e. withdrawing and depositing on his
 account. On loading of withdraw/deposit page, the user has to enter the account no. If the account no
 details is stored in the database, It will be reflected on this page. 
 
-![Withdraw Page]()
+![Withdraw Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss5.png)
 
-![Deposit Page]()
+![Deposit Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss6.png)
 
 **Transfer:**
 On this page, the user can transfer money from one account to another account.
 On loading, the user has to enter the account no’s from which he wishes to transfer money.
 
-![Transfer Page]()
+![Transfer Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss7.png)
 
 **Report Page:** It displays all the details of the customer to the administrator.
 
-![Report Page]()
+![Report Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss8.png)
 
 **Balance:** It displays the account balance of the selected customer.
 
-![Balance Page]()
+![Balance Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss9.png)
 
 **Admin:** 
 It allows the existing administrator to create new administrators and delete existing
 administrator.
 
-![Admin Page]()
-
-
-
-
-
-
+![Admin Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss10.png)
 
 ## System Requirements
 
@@ -108,9 +102,9 @@ administrator.
 
 ## Documentations
 
-- [Project Ppt]()
+- [Project Ppt](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
 
-- [Final Report]()
+- [Final Report](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/ProjectReport_SEITA_19.pdf)
 
 
 
