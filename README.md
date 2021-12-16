@@ -17,19 +17,19 @@ the customer by logging into their existing account. The system executes operati
 the balance of the account, withdrawing, depositing, money transfers
 between two accounts and viewing transaction history.
 
-## Group Members
+## Group Members:
 
  - [@parthdali](https://github.com/parthd06)
  - [@pranavdalvi](https://github.com/PRANAVD-10)
  - [@shivambhosale](https://github.com/ShivamB10)
 
-## System Design & Flow Chart
+## System Design & Flow Chart:
 
 ![System Design](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/SystemDesign.png)
 
 ![Flow Chart](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/Flowchart.png)
 
-## Project Screenshots
+## Project Screenshots:
 **Login Page:**
 Administrator(user) have to insert his credentials to access the system. All the
 data of the administrator is already stored in the database. If the credentials does not match, the
@@ -88,8 +88,7 @@ administrator.
 
 • **Hardware:** 10GB storage, 4gb ram 4.1.2
 
-
-## Conclusion
+## Conclusion:
 
 - Bank management system is a virtualization of transactions in banking system. 
 
@@ -99,20 +98,16 @@ administrator.
 
 - It also reduces the human errors caused by employees or the customer itself.
 
-
-## Documentations
+## Documentations:
 
 - [Project Ppt](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
 
 - [Final Report](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/ProjectReport_SEITA_19.pdf)
 
-
-
-## References
+## References:
 
 - https://www.javatpoint.com/online-banking-project
 
 - https://projectsgeek.com/2016/02/complete-banking-system-java-project.html
 
 - https://www.apachefriends.org/index.html
-
