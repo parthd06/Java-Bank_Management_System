@@ -49,7 +49,7 @@ withdraw, transfer, report, balance check and can add new admin.
 
   ![Add Account](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss4.png)
 
-**Transaction:** 
+**Transaction Page:** 
 The user can perform two actions i.e. withdrawing and depositing on his
 account. On loading of withdraw/deposit page, the user has to enter the account no. If the account no
 details is stored in the database, It will be reflected on this page. 
@@ -58,7 +58,7 @@ details is stored in the database, It will be reflected on this page.
 
 ![Deposit Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss6.png)
 
-**Transfer:**
+**Transfer Page:**
 On this page, the user can transfer money from one account to another account.
 On loading, the user has to enter the account no’s from which he wishes to transfer money.
 
@@ -68,17 +68,17 @@ On loading, the user has to enter the account no’s from which he wishes to tra
 
 ![Report Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss8.png)
 
-**Balance:** It displays the account balance of the selected customer.
+**Balance Page:** It displays the account balance of the selected customer.
 
 ![Balance Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss9.png)
 
-**Admin:** 
+**Admin Page:** 
 It allows the existing administrator to create new administrators and delete existing
 administrator.
 
 ![Admin Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss10.png)
 
-## System Requirements
+## System Requirements:
 
 • **Interpreters:** Java and Java Database Connectivity(JDBC).
 
