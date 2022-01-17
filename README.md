@@ -1,13 +1,13 @@
 # Bank Management System in Java
 
-• Bank is the place where customers feel the sense of safety for their property.
-In the bank, customers deposit and withdraw their money. Now a days, managing a bank
-is tedious job upto certain limit. So a bank management system that reduces
-the work is essential. Also today’s world is a genuine computer world and is
+• Bank is the place where customers feel a sense of safety for their property.
+In the bank, customers deposit and withdraw their money. Nowadays, managing a bank
+is a tedious job upto a certain limit. So a bank management system that reduces
+the work is essential. Also, today’s world is a genuine computer world and is
 getting faster and faster day-by-day. 
 
-• Thus, considering above necessities, the system for bank management has
-became necessary which would be useful in managing the bank more
+• Thus, considering the above necessities, the system for bank management has
+become necessary which would be useful in managing the bank more
 efficiently.
 
 ## Problem Statement:
